@@ -3,7 +3,7 @@
 
 Este projeto é uma Landing Page desenvolvida como parte do desafio de certificação 1. O objetivo foi criar a página inicial de uma agência de turismo fictícia, a "Ilha do Amor Tur", focada em promover os pontos turísticos de São Luís do Maranhão.
 
-🔗 Clique aqui para ver o projeto online ([Substitua o link acima pelo link gerado no GitHub Pages após seguir o guia](https://github.com/lourisvanconceicao-lgtm/viagens--landing-page/edit/main/README.md))
+🔗 Clique aqui para ver o projeto online (https://github.com/lourisvanconceicao-lgtm/viagens--landing-page)
 
 📘 Sobre o Projeto  
 
@@ -53,7 +53,7 @@ CSS3: Efeitos de transição (transition), sombras e interatividade (hover).
 
 Clone este repositório:
 
-git clone [[https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/lourisvanconceicao-lgtm/viagens--landing-page/edit/main/README.md))
+git clone (https://github.com/lourisvanconceicao-lgtm/viagens--landing-page)
 
 
 Abra o arquivo index.html no seu navegador de preferência.
